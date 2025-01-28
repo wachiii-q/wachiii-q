@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Fourth-year Biomedical Engineering @ Mahidol University.<br>✨ Creating bugs since freshman year, fixing them... eventually.<br>🧠 Enthusiastic about neuroscience, the brain, and omics.<br>🎨 Lover of art, coffee, sketching, and watercolor.<br>🎯 Aiming for cutting-edge research in neuroscience to decode the mysteries of the mind.<br>📮 Email: wachiraya.chu@gmail.com</p>
+<p align="left">🎓 Fourth-year Biomedical Engineering Student @ Mahidol University.<br>✨ Creating bugs since freshman year, fixing them... eventually.<br>🧠 Enthusiastic about neuroscience, the brain, and omics.<br>🎨 Lover of art, coffee, sketching, and watercolor.<br>🎯 Aiming for cutting-edge research in neuroscience to decode the mysteries of the mind.<br>📮 Email: wachiraya.chu@gmail.com</p>
 
 ###
 
